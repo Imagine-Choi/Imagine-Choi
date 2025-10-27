@@ -48,10 +48,12 @@ ___
 
 |프로젝트|이름|소개|바로가기|
 |:-:|:-|:-|:-:|
-|**졸업 프로젝트**|Comon|  | |
+|**졸업 프로젝트**|Comon:Communication On|  | |
 |**GDSC 2024 Sollution Challenge**|Beady Eyes|  | |
-|**장기인턴 OCR 파인튜닝**|Paddle OCR Korean HandWriting FineTuning| | |
-|**TypeScript AI 바이브 코딩**|ValueScope|  |  |
+|**장기 현장실습 OCR 파인튜닝**|Paddle OCR Korean HandWriting FineTuning| | |
+|**장학 근로 EnWise**| 쇼핑몰 웹 비디오 결합형 상품 판매 위젯 'WISMON' | | |
+|**개인 프로젝트**|ValueScope| TypeScript AI 바이브 코딩, 미국 저평가 우량주 발굴 플랫폼 |  |
+|**개인 프로젝트**| |  |  |
 
 </div>
 </details>
