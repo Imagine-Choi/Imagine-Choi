@@ -22,23 +22,17 @@ An Android Developer based on Republic of Korea
 </br></br>
 </div>
 
-### Who Am I?
+### Who Am I
 
-👩🏻‍💻 안녕하세요! 앱 개발을 사랑하는 App Developer 이매진입니다 👩🏻‍💻
+안녕하세요! 앱 개발을 사랑하는 App Developer 이매진입니다
 
 </br>
 
 안드로이드 개발자로서의 성장을 항상 추구합니다.</br>
 
-Android (Native) 개발을 선호하지만, 웹 개발도 관심있습니다!  (선언형 UI는 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6316ef14-96af-4a3d-8184-3f216027dc52" />
-입니다.)</br>
-장학 근로 프론트앤드 개발 인턴 경험으로 React Native와 TypeScript를 사용해본 경험이 있습니다.</br>
-현재는 렉스소프트 현장실습 AI 개발팀 인턴 근무중입니다. (25/09 - 25/12)
+Android (Native) 개발을 선호하지만, 웹 개발도 배우는 중입니다.
+AI 개발팀 인턴 근무 경험으로 AI에 대한 실무 경험을 다졌습니다. (25/09 - 25/12)
 
-</br>
-
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5c15c3b3-ca94-410d-9d55-eac2a5044839" /> 일본어랑 영어, 프랑스어 등 언어 배우는 것이 취미입니다</br>
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/87098998-5110-4092-89aa-da58ac9786cd" /> 커피 마시며 영화보는 것을 정말 좋아합니다 !!
 
 ___
 <details>
