@@ -30,11 +30,11 @@ An Android Developer based on Republic of Korea
 
 안드로이드 개발자로서의 성장을 항상 추구합니다.</br>
 
-SSAFY (삼성 청년 SW/AI 아카데미) : 15기 서울캠퍼스 JAVA 전공자반 교육생 (26/01 - 현재)
+SSAFY (삼성 청년 SW/AI 아카데미) : 15기 서울캠퍼스 JAVA 전공자반 교육생 (26/01 - 현재)</br>
 
-렉스소프트 : AI 개발팀 인턴 (25/09 - 25/12)
-장학 근로 EnWise : Recact 프론트앤드 개발자 (23/09 - 24/09)
+렉스소프트 : AI 개발팀 인턴 (25/09 - 25/12)</br>
+장학 근로 EnWise : Recact 프론트앤드 개발자 (23/09 - 24/09)</br>
 
-IT 연합동아리 NEXTERS : 28기 Android Member (26/01 - 26/02)
-IT 연합동아리 GDSC(Google Developer Student Club) Konkuk 23-24 : 1기 Android Core Member 및 운영진 (23/09 - 24/06)
+IT 연합동아리 NEXTERS : 28기 Android Member (26/01 - 26/02)</br>
+IT 연합동아리 GDSC(Google Developer Student Club) Konkuk 23-24 : 1기 Android Core Member 및 운영진 (23/09 - 24/06)</br>
 IT 연합동아리 UMC Konkuk 지부 Server(Node.js) Member (23/03 - 23/06)
