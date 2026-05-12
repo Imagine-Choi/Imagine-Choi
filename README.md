@@ -24,59 +24,17 @@ An Android Developer based on Republic of Korea
 
 ### Who Am I
 
-안녕하세요! 앱 개발을 사랑하는 App Developer 이매진입니다
+안녕하세요! 앱 개발을 사랑하는 Mobile Developer 이매진입니다
 
 </br>
 
 안드로이드 개발자로서의 성장을 항상 추구합니다.</br>
 
-Android (Native) 개발을 선호하지만, 웹 개발도 배우는 중입니다.
-AI 개발팀 인턴 근무 경험으로 AI에 대한 실무 경험을 다졌습니다. (25/09 - 25/12)
+SSAFY (삼성 청년 SW/AI 아카데미) : 15기 서울캠퍼스 JAVA 전공자반 교육생 (26/01 - 현재)
 
+렉스소프트 : AI 개발팀 인턴 (25/09 - 25/12)
+장학 근로 EnWise : Recact 프론트앤드 개발자 (23/09 - 24/09)
 
-___
-<details>
-<summary>Projects</summary>
-<div markdown="1">
-
-
-|프로젝트|이름|소개|바로가기|
-|:-:|:-|:-|:-:|
-|**졸업 프로젝트**|Comon:Communication On|  | |
-|**GDSC 2024 Sollution Challenge**|Beady Eyes|  | |
-|**장기 현장실습 OCR 파인튜닝**|Paddle OCR Korean HandWriting FineTuning| | |
-|**장학 근로 EnWise**| 쇼핑몰 웹 비디오 결합형 상품 판매 위젯 'WISMON' | | |
-|**개인 프로젝트**|ValueScope| TypeScript AI 바이브 코딩, 미국 저평가 우량주 발굴 플랫폼 |  |
-|**개인 프로젝트**| |  |  |
-
-</div>
-</details>
-<details>
-<summary>Activities</summary>
-<div markdown="1">
-
-</div>
-</details>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imagine-Choi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-#### Tools
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
--->
-
-<!--
-**Imagine-Choi/Imagine-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT 연합동아리 NEXTERS : 28기 Android Member (26/01 - 26/02)
+IT 연합동아리 GDSC(Google Developer Student Club) Konkuk 23-24 : 1기 Android Core Member 및 운영진 (23/09 - 24/06)
+IT 연합동아리 UMC Konkuk 지부 Server(Node.js) Member (23/03 - 23/06)
