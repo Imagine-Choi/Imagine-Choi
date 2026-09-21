@@ -32,8 +32,9 @@ An Android Developer based on Republic of Korea
 
 
 -----
+
 @Team Hyundai (26/08~)
------
+
 렉스소프트 : AI 개발팀 인턴 (25/09 - 25/12)</br>
 장학 근로 EnWise : 프론트앤드 개발자(React) (23/09 - 24/09)</br>
 
